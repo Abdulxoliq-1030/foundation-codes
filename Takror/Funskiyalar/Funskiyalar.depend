@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637731567 source:c:\users\user\desktop\takror\funskiyalar\main.cpp
+	<iostream>
+	<cmath>
+	<ctype.h>
+

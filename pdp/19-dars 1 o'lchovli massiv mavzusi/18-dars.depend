@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637173512 source:c:\users\user\desktop\darslar\pdp\18-dars\main.cpp
+	<iostream>
+	<ctype.h>
+	<cmath>
+

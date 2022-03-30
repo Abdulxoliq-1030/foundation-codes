@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637757050 source:c:\users\user\desktop\darslar\pdp\23-dars\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

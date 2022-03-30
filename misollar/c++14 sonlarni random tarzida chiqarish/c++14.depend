@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634533365 source:c:\users\osiyocomputers\desktop\misollar\c++14\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
